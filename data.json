@@ -1,0 +1,30 @@
+{
+  "Shaheer_ali": {
+    "solana": {
+      "address": "B2BoqSgmY79ZjCJf6yMPpsyeog5hugR3wD4vG7b7ZPTF",
+      "private": "[41,230,131,103,14,90,16,79,99,89,135,234,223,45,62,174,240,59,203,75,203,254,207,103,23,185,210,109,148,29,32,28,148,226,171,143,90,29,237,77,128,96,232,92,110,5,7,219,62,226,238,148,175,16,198,110,98,81,179,64,228,218,63,170]"
+    },
+    "eth": {
+      "address": "0x65B8c51b22A12955EAb19fD22Cd2f5B6DF156b34",
+      "privateKey": "0x2d71328a34cacb2f1fb6c3d5a7d49cedb130a35c20655194f7783c854d9d93e9"
+    },
+    "tron": {
+      "address": "TBJQZJKuRpGVtBwnGAZWdsieJ6Dq5qtiPy",
+      "privateKey": "cf0756ca0c5fb6636f663e746d859f4940baac5c64433262efd4f02051ec620d"
+    }
+  },
+  "Bahnemi": {
+    "solana": {
+      "address": "GRwrnZjBpXKeSV747ugQ3t5h1XnBq8GQ99sP76dMM4Fu",
+      "private": "[36,22,136,116,159,108,217,211,179,156,184,219,97,103,205,127,33,74,12,111,160,45,38,6,224,218,252,24,51,192,38,94,229,67,69,153,109,15,155,44,28,95,57,211,65,121,53,78,149,143,135,250,120,216,197,135,118,59,17,63,99,22,29,236]"
+    },
+    "eth": {
+      "address": "0x758d78c206B81Ca58448b0c24C855A1C5228852E",
+      "privateKey": "0xe96ab8e534cce866d83fed998c461e2701e06c76085f01964a7067f4aed8589d"
+    },
+    "tron": {
+      "address": "TK4ANbWNorfwUTEo3Z4iQbMJZijM7GFN61",
+      "privateKey": "478a69b3c1ac66e53832be3f0d8e0f09eb2d4c024ca58cc77e65d1efa0e2ec68"
+    }
+  }
+}
